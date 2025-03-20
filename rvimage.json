@@ -7,13 +7,15 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/bertiqwerty/rvimage/releases/download/v0.4.30/rvimage-v0.4.30-x86_64-pc-windows-msvc.zip",
-            "hash": "70299f4757a835c85c052a77dc8e55ec2d903a00daa6443e6225106ca7acb596"
+            "hash": "70299f4757a835c85c052a77dc8e55ec2d903a00daa6443e6225106ca7acb596",
+            "extract_dir": "rvimage-v0.4.30-x86_64-pc-windows-msvc"
         }
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/bertiqwerty/rvimage/releases/download/$version/rvimage-$version-x86_64-pc-windows-msvc.zip"
+                "url": "https://github.com/bertiqwerty/rvimage/releases/download/$version/rvimage-$version-x86_64-pc-windows-msvc.zip",
+                "extract_dir": "rvimage-$version-x86_64-pc-windows-msvc"
             }
         }
     },
