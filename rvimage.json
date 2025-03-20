@@ -1,6 +1,5 @@
 {
     "version": "v0.4.30",
-    "extract_dir": "rvimage-v0.4.30-x86_64-pc-windows-msvc",
     "bin": "rvimage.exe",
     "description": "Remote Viewer for Images and annotation tool written in Rust",
     "homepage": "https://github.com/bertiqwerty/rvimage",
