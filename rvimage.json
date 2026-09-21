@@ -1,14 +1,14 @@
 {
-    "version": "v0.9.0",
+    "version": "v0.9.1",
     "bin": "rvimage.exe",
     "description": "Remote Viewer for Images and annotation tool written in Rust",
     "homepage": "https://github.com/bertiqwerty/rvimage",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/bertiqwerty/rvimage/releases/download/v0.9.0/rvimage-v0.9.0-x86_64-pc-windows-msvc.zip",
-            "hash": "ffda430406c01fca5950f122a34f9f31cad67fa9171fd69a1a89b02748ce7f0c",
-            "extract_dir": "rvimage-v0.9.0-x86_64-pc-windows-msvc"
+            "url": "https://github.com/bertiqwerty/rvimage/releases/download/v0.9.1/rvimage-v0.9.1-x86_64-pc-windows-msvc.zip",
+            "hash": "2250ae4b71a0afe3f8d9ba2856878d5338d6f5d9c9d3fdf423cc53e7c4bfe479",
+            "extract_dir": "rvimage-v0.9.1-x86_64-pc-windows-msvc"
         }
     },
     "autoupdate": {
